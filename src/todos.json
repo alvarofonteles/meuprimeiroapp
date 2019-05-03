@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "title": "Tarefa 1",
+            "resposible": "Jesus Cristo",
+            "description": "Deus é fiel",
+            "priority": "alta"
+        },
+        {
+            "title": "Tarefa 2",
+            "resposible": "Alvaro",
+            "description": "Leticía Estudar!",
+            "priority": "baixa"
+        },
+        {
+            "title": "Tarefa 3",
+            "resposible": "Leticia",
+            "description": "Leticia já estudou?",
+            "priority": "media"
+        },
+        {
+            "title": "Tarefa 4",
+            "resposible": "Lorena",
+            "description": "Lorena já dormiu?",
+            "priority": "alta"
+        }
+    ]
+}
